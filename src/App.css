@@ -11,6 +11,7 @@
 }
 
 .entry--details{
+  color: var(--text-color);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -19,7 +20,6 @@
 }
 
 .entry--details > h1 {
-  color: #2B283A;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -28,7 +28,6 @@
 
 .entry--details > p {
   text-align: left;
-  color: #2B283A;
   font-size: 10.24px;
   font-style: normal;
   font-weight: 400;
